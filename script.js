@@ -24,7 +24,6 @@ async function fetchMovieData() {
         const img = document.createElement('img');
         img.src = url;
         img.alt = `${data.title} Image`;
-        img.width = 200;
         imagesContainer.appendChild(img);
     });
 
