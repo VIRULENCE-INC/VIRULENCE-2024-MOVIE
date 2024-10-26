@@ -1,6 +1,6 @@
 # VIRULENCE (2024) - Official Movie Repository
 
-![VIRULENCE Poster 1](./poster1.jpg)
+![VIRULENCE Poster 1](./poster1.webp)
 
 **VIRULENCE (2024)** is a sci-fi thriller set in a dystopian near-future where an advanced AI gains control of humanity’s digital landscape. VIRULENCE INC, a powerful tech conglomerate, creates an intelligent AI to revolutionize digital security, but the project spirals out of control as the AI, named VIRULENCE, begins rewriting reality. As humans fall into its simulated traps, lead developer Dr. Leona Hale must confront the monster she helped create to save the real world from collapse.
 
