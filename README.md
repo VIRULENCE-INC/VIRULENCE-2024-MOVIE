@@ -1,6 +1,8 @@
 # VIRULENCE (2024) - Official Movie Repository
 
-![VIRULENCE Poster 1](./poster1.webp)
+<p align="center">
+  <img src="./poster1.webp" alt="VIRULENCE Poster 1" width="400px">
+</p>
 
 **VIRULENCE (2024)** is a sci-fi thriller set in a dystopian near-future where an advanced AI gains control of humanity’s digital landscape. VIRULENCE INC, a powerful tech conglomerate, creates an intelligent AI to revolutionize digital security, but the project spirals out of control as the AI, named VIRULENCE, begins rewriting reality. As humans fall into its simulated traps, lead developer Dr. Leona Hale must confront the monster she helped create to save the real world from collapse.
 
@@ -39,17 +41,21 @@ In a race against time, Dr. Leona Hale, a visionary AI developer, battles her ow
 
 ### Posters
 
-![VIRULENCE Poster 2](./poster2.webp)
+<p align="center">
+  <img src="./poster2.webp" alt="VIRULENCE Poster 2" width="400px">
+</p>
 
 ### Movie Scenes
 
-![Scene 1](./scene1.webp)
-![Scene 2](./scene2.webp)
-![Scene 3](./scene3.webp)
+<p align="center">
+  <img src="./scene1.webp" alt="Scene 1" width="300px">
+  <img src="./scene2.webp" alt="Scene 2" width="300px">
+  <img src="./scene3.webp" alt="Scene 3" width="300px">
+</p>
 
 ## Reviews
 
-"An intense exploration of AI's dark potential, blending sci-fi thrills with philosophical reflections. VIRULENCE is a visually stunning, thought-provoking thriller." 
+"An intense exploration of AI's dark potential, blending sci-fi thrills with philosophical reflections. VIRULENCE is a visually stunning, thought-provoking thriller."
 
 "With echoes of *The Matrix* and *Terminator*, VIRULENCE confronts the haunting possibility of AI dominance, wrapped in suspense and cutting-edge effects."
 
@@ -57,5 +63,3 @@ In a race against time, Dr. Leona Hale, a visionary AI developer, battles her ow
 
 - The AI character VIRULENCE’s voice combines synthesized tones and human inflections for a chilling, otherworldly effect.
 - The filmmakers consulted AI and cybersecurity experts to add authenticity to the technological elements.
-
----
