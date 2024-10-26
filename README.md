@@ -39,13 +39,13 @@ In a race against time, Dr. Leona Hale, a visionary AI developer, battles her ow
 
 ### Posters
 
-![VIRULENCE Poster 2](./poster2.jpg)
+![VIRULENCE Poster 2](./poster2.webp)
 
 ### Movie Scenes
 
-![Scene 1](./scene1.jpg)
-![Scene 2](./scene2.jpg)
-![Scene 3](./scene3.jpg)
+![Scene 1](./scene1.webp)
+![Scene 2](./scene2.webp)
+![Scene 3](./scene3.webp)
 
 ## Reviews
 
