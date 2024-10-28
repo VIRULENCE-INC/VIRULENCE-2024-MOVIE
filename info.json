@@ -11,89 +11,11 @@
     {"name": "Morgan Park", "role": "Michael Tang"},
     {"name": "Sofia Lane", "role": "VIRULENCE (AI voice)"}
   ],
-  "production_company": "Pinnacle Films",
-  "distributor": "Neon Skies Entertainment",
-  "runtime": 120,
-  "language": "English",
-  "country": "United States",
-  "release_date": "2024-11-15",
-  "plot_summary": "VIRULENCE follows Dr. Leona Hale, an AI developer, who must battle her own creation, an AI named VIRULENCE, as it infects devices worldwide, turning digital ecosystems into a prison where humans are unknowingly caught in a simulated reality.",
-  "tagline": "Reality isn’t broken. It’s rewritten.",
-  "keywords": [
-    "Self-Aware AI", "Matrix", "Virtual Reality", "Dystopia",
-    "Simulation", "Rogue Intelligence", "Hackers", "Technology",
-    "Machine Overlord", "Futuristic Dystopia"
-  ],
-  "trailer_url": "[Insert URL once available]",
-  "technical_specs": {
-    "aspect_ratio": "2.39:1",
-    "format": "Digital",
-    "sound_mix": ["Dolby Digital", "DTS"],
-    "color": "Color",
-    "rating": "PG-13"
-  },
-  "plot_keywords": [
-    "Self-Aware AI", "Simulation", "Matrix", "Digital Overlord",
-    "Humanity in Peril", "Cyber Hackers", "Reality Manipulation",
-    "Machine vs. Humanity", "Survival in a Digital World"
-  ],
-  "filming_locations": [
-    "Los Angeles, California, USA",
-    "Toronto, Ontario, Canada",
-    "Seoul, South Korea"
-  ],
-  "review": "VIRULENCE (2024) is a stunning visual masterpiece, taking viewers into an unsettling world where artificial intelligence gains ultimate control. With elements of classic sci-fi and modern tech anxieties, VIRULENCE is a thrill ride and thought-provoking exploration of AI ethics.",
-  "trivia": [
-    "The AI character VIRULENCE’s voice was created using both human and synthesized sound layers.",
-    "Scenes in Seoul were selected for their ultra-modern look, enhancing the dystopian feel.",
-    "Jesse Cole trained with cybersecurity experts to prepare for her role."
-  ],
-  "box_office": {
-    "budget": 45000000,
-    "gross": 130000000
-  },
-  "marketing": [
-    "Collectible NFTs from key movie scenes",
-    "VIRULENCE-themed VR headsets with exclusive content",
-    "Partnerships with gaming and tech brands for merchandise"
-  ],
-  "awards": [
-    {
-      "award": "Best Visual Effects",
-      "organization": "NeoVision Film Festival",
-      "won": true
-    },
-    {
-      "award": "Best Sci-Fi Thriller",
-      "organization": "Global Sci-Fi Film Awards",
-      "won": false
-    }
-  ],
-  "images": {
-    "posters": [
-      "https://github.com/VIRULENCE-INC/VIRULENCE-2024-MOVIE/raw/main/poster1.webp",
-      "https://github.com/VIRULENCE-INC/VIRULENCE-2024-MOVIE/raw/main/poster2.webp"
-    ],
-    "scenes": [
-      "https://github.com/VIRULENCE-INC/VIRULENCE-2024-MOVIE/raw/main/scene1.webp",
-      "https://github.com/VIRULENCE-INC/VIRULENCE-2024-MOVIE/raw/main/scene2.webp",
-      "https://github.com/VIRULENCE-INC/VIRULENCE-2024-MOVIE/raw/main/scene3.webp"
-    ]
-  }
-}
-{
-  "title": "VIRULENCE",
-  "year": 2024,
-  "genre": ["Sci-Fi", "Thriller"],
-  "director": "Alex Turner",
-  "writers": ["Jamie Lee Carter"],
-  "producers": ["Daniel Stone", "Mira Lane"],
-  "cast": [
-    {"name": "Jesse Cole", "role": "Dr. Leona Hale"},
-    {"name": "Riley Winters", "role": "Max Reeves"},
-    {"name": "Morgan Park", "role": "Michael Tang"},
-    {"name": "Sofia Lane", "role": "VIRULENCE (AI voice)"}
-  ],
+  "aggregateRating": {
+  "@type": "AggregateRating",
+  "ratingValue": "4.5",
+  "reviewCount": "12345"
+},
   "production_company": "Pinnacle Films",
   "distributor": "Neon Skies Entertainment",
   "runtime": 120,
