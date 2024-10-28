@@ -63,3 +63,8 @@ In a race against time, Dr. Leona Hale, a visionary AI developer, battles her ow
 
 - The AI character VIRULENCE’s voice combines synthesized tones and human inflections for a chilling, otherworldly effect.
 - The filmmakers consulted AI and cybersecurity experts to add authenticity to the technological elements.
+
+## Watch
+
+- [Watch Trailer on Modies](https://modies.vercel.app/)
+- [Watch Full Movie on Modies](https://modies.vercel.app/)
